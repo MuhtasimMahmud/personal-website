@@ -1,0 +1,115 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.color{
+    color: deeppink;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color: deeppink;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 700;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 75%;
+}
+#text-of-up{
+    margin-top: 25%;
+    margin-bottom: 10%;
+}
+.up{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+section{
+    height: 550px;
+}
+.biography-text{
+    margin-top: 30%;
+    margin-right: 25%;
+    margin-bottom: 10%;
+}
+#bio-img{
+    margin-left: 10%;
+    margin-top: 15%;
+}
+.work-text{
+    text-align: center;
+    margin-top: 10%;
+}
+.half-width-of-work-section img{
+    height: 200px;
+    width: 280px;
+}
+.half-width-of-work-section{
+    width: 30%;
+    float: left;
+}
+.abc{
+    margin-left: 15%;
+    padding-top: 5%;
+}
+.work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.footer{
+    text-align: center;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.footer h2{
+    padding-bottom: 2.5%;
+}
+.a{
+    padding-bottom: 1.7%;
+}
+.b{
+    font-size: 15px;
+}
+.footer-text{
+    padding-bottom: 5%;
+}
+.button2{
+    text-decoration: none;
+    color: white;
+    background-color: deeppink;
+    padding: 0px 100px;
+    border-radius: 8px;
+    margin-left: 50px;
+    margin-bottom: 450px;
+    margin-top: 0px;
+}
+.k{
+    margin-top: 400px;
+    text-align: center;
+}
+.qq{
+    text-decoration: none;
+    color: white;
+    float: left;
+    background-color: thistle;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 700;
+    margin-left: 200px;
+}
+
